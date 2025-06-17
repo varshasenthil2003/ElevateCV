@@ -31,7 +31,51 @@ This AI-driven resume analyzer reviews your resume like a hiring expert. It high
 ![PDFMiner](https://img.shields.io/badge/PDFMiner3-008080?style=for-the-badge)
 ![OptionMenu](https://img.shields.io/badge/Streamlit--Option--Menu-ae38b2?style=for-the-badge)
 
+---
 
+Absolutely — the **AI & Model Usage** section is a key differentiator for ElevateCV. I’ll add a new section titled **🧠 AI Models & Intelligence Layer** just after **🛠️ Technologies Used** and before **⚙️ Features**, integrating the details you've provided in a professional and organized way.
+
+Here’s the updated section you can insert:
+
+---
+
+## 🧠 AI Models & Intelligence Layer
+
+ElevateCV leverages state-of-the-art large language models (LLMs) to power every layer of analysis — from structured resume parsing to career trajectory mapping.
+
+### 🔍 Model Stack
+
+| Model                     | Purpose                             | Highlights                                                    |
+| ------------------------- | ----------------------------------- | ------------------------------------------------------------- |
+| **DeepSeek Chat**         | Career intelligence, chat assistant | Advanced reasoning, career insights, multilingual support     |
+| **LLaMA 3.1 8B Instruct** | Structured resume parsing           | Accurate field detection, optimized for instruction-following |
+| **OpenRouter API**        | Model routing & fallback management | High availability, load balancing, easy model integration     |
+
+### 🧬 Usage Breakdown
+
+* **Resume Parsing:**
+  → `LLaMA 3.1 8B Instruct`
+  🔹 Used for: Clean text extraction & JSON structuring
+  🔹 Temperature: `0.1` for deterministic output
+
+* **Career Analysis & Insights:**
+  → `DeepSeek Chat`
+  🔹 Used for: Skills gap analysis, growth strategies, salary mapping
+  🔹 Temperature: `0.3–0.7` for balanced reasoning & creativity
+
+* **AI Career Coach Assistant:**
+  → `DeepSeek Chat`
+  🔹 Personalized conversation based on user’s resume context
+
+* **Routing & Reliability:**
+  → `OpenRouter API`
+  🔹 Enables model switching and load balancing for uninterrupted service
+
+### ⚖️ Design Philosophy
+
+* 🔁 **Fallback System** ensures high availability even during model timeouts
+* 🎯 **Low Temperature Settings** used for consistent and factual outputs
+* 🤝 **Multi-model Collaboration** to blend accuracy with smart reasoning
 
 ---
 
