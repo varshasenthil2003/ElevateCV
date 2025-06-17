@@ -214,7 +214,3 @@ pip install -r requirements.txt
 > **Built with precision, passion, and AI — Empower your resume with ElevateCV.**
 
 © 2025 ElevateCV – The intelligent resume companion you never knew you needed.
-
----
-
-Let me know if you want a **dark-themed badge**, **demo GIF**, or **GitHub deploy-ready version**.
