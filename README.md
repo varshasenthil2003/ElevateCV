@@ -80,7 +80,7 @@ This AI-driven resume analyzer reviews your resume like a hiring expert. It high
 ## 🏗️ Directory Structure
 
 ```bash
-ai-resume-analyzer/
+ElevateCV/
 ├── app.py                    # Main Streamlit app
 ├── ai_resume_parser.py       # Resume AI engine
 ├── career_intelligence.py    # Career insight logic
@@ -99,7 +99,7 @@ ai-resume-analyzer/
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/ElevateCV.git
-cd ai-resume-analyzer
+cd ElevateCV
 
 # Create virtual environment
 python -m venv venv
