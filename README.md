@@ -138,7 +138,7 @@ Update your API key in:
 * `career_intelligence.py`
 
 ```python
-api_key = "your_openrouter_api_key"
+api_key = "your_api_key"
 ```
 
 ---
