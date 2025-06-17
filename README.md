@@ -51,25 +51,7 @@ ElevateCV leverages state-of-the-art large language models (LLMs) to power every
 | **LLaMA 3.1 8B Instruct** | Structured resume parsing           | Accurate field detection, optimized for instruction-following |
 | **OpenRouter API**        | Model routing & fallback management | High availability, load balancing, easy model integration     |
 
-### 🧬 Usage Breakdown
-
-* **Resume Parsing:**
-  → `LLaMA 3.1 8B Instruct`
-  🔹 Used for: Clean text extraction & JSON structuring
-  🔹 Temperature: `0.1` for deterministic output
-
-* **Career Analysis & Insights:**
-  → `DeepSeek Chat`
-  🔹 Used for: Skills gap analysis, growth strategies, salary mapping
-  🔹 Temperature: `0.3–0.7` for balanced reasoning & creativity
-
-* **AI Career Coach Assistant:**
-  → `DeepSeek Chat`
-  🔹 Personalized conversation based on user’s resume context
-
-* **Routing & Reliability:**
-  → `OpenRouter API`
-  🔹 Enables model switching and load balancing for uninterrupted service
+---
 
 ### ⚖️ Design Philosophy
 
