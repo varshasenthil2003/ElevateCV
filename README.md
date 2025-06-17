@@ -20,16 +20,17 @@ This AI-driven resume analyzer reviews your resume like a hiring expert. It high
 
 ## 🛠️ Technologies Used
 
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyMySQL](https://img.shields.io/badge/PyMySQL-1.0.2%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1.0.0%2B-10a37f?style=for-the-badge&logo=openai)
-![nltk](https://img.shields.io/badge/NLTK-3.8%2B-darkgreen?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-5.15%2B-black?style=for-the-badge&logo=plotly)
-![Geopy](https://img.shields.io/badge/Geopy-2.3%2B-1488C6?style=for-the-badge)
-![Pillow](https://img.shields.io/badge/Pillow-9.5%2B-7B3F00?style=for-the-badge)
-![PDFMiner](https://img.shields.io/badge/PDFMiner3-2018.12%2B-008080?style=for-the-badge)
-![OptionMenu](https://img.shields.io/badge/Streamlit--Option--Menu-0.3.6%2B-ae38b2?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-10a37f?style=for-the-badge&logo=openai)
+![nltk](https://img.shields.io/badge/NLTK-darkgreen?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly)
+![Geopy](https://img.shields.io/badge/Geopy-1488C6?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-7B3F00?style=for-the-badge)
+![PDFMiner](https://img.shields.io/badge/PDFMiner3-008080?style=for-the-badge)
+![OptionMenu](https://img.shields.io/badge/Streamlit--Option--Menu-ae38b2?style=for-the-badge)
+
 
 
 ---
